@@ -9,3 +9,5 @@ Could not upload all the pictures due to invalid type of img.
 
 
 ---------------First Assignment------------------------------------
+This is my first assignment to create website with some demand requirement. 
+Sementic format + css effect with nav bar.
